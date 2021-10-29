@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- App name -->
+    <string name="app_name">Pinomu - Pinjaman Online Mudah</string>
+
+    <!-- Hint text for editable text field where the user enters the cost of service -->
+    <string name="cost_of_service">Biaya Peminjaman</string>
+
+    <!-- Question prompt for the group of radio buttons with different tip options -->
+    <string name="how_was_the_service">Ingin diangsur berapa bulan?</string>
+
+    <!-- Tip option for amazing service which uses 20% to calculate the tip  -->
+    <string name="amazing_service">12 Bulan (Bunga 3,75%)</string>
+
+    <!-- Tip option for good service which uses 18% to calculate the tip  -->
+    <string name="good_service">24 Bulan (Bunga 3,75%)</string>
+
+    <!-- Tip option for okay service which uses 16% to calculate the tip  -->
+    <string name="ok_service">36 Bulan (Bunga 3,75%)</string>
+
+    <!-- Text label for toggle switch that asks the user if they want to round up the tip  -->
+    <string name="round_up_tip">Ingin memberi Tip?</string>
+
+    <!-- Label for button that calculates the tip  -->
+    <string name="calculate">Hitung</string>
+
+    <!-- Formatted string for the tip result  -->
+    <string name="tip_amount">Cicilan yang harus dibayar perbulan: %s</string>
+
+    <!-- Total Biaya -->
+    <string name="total_amount">Total Biaya yang harus dibayar: %s</string>
+
+    <!-- Biaya Layanan -->
+    <string name="biaya_amount">Biaya Layanan : %s</string>
+</resources>
